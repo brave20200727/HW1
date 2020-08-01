@@ -366,7 +366,7 @@ ul {
 */
 
 .about-content {
-  height: 100vh;
+  height: 110vh;
   background-color: rgba(45, 58, 75, 0.5);
   padding: 0px 60px;
   position: relative;
@@ -374,7 +374,7 @@ ul {
 }
 
 .about-content .heading {
-  padding-top: 40%;
+  padding-top: 20%;
 }
 
 .about-box-content {
@@ -383,7 +383,7 @@ ul {
 }
 
 .about-box-content img {
-  width: 100%;
+  width: 80%;
   overflow: hidden;
   position: absolute;
 }
@@ -392,6 +392,7 @@ ul {
   background-color: #fff;
   padding: 30px;
   margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .about-content .about-box-text h4 {
@@ -405,6 +406,11 @@ ul {
   margin-top: 0px;
   margin-bottom: 15px;
   border-bottom: 2px solid #eee;
+}
+
+.about-content .about-box-text h4 em {
+	color: #fa5252;
+	font-style: normal;
 }
 
 .about-content .about-box-text p {
@@ -430,7 +436,7 @@ ul {
 */
 
 .projects-content {
-  height: 100vh;
+  height: 120vh;
   background-color: rgba(45, 58, 75, 0.5);
   padding: 0px 60px;
   position: relative;
