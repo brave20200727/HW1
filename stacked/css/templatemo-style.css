@@ -366,7 +366,7 @@ ul {
 */
 
 .about-content {
-  height: 120vh;
+  height: 100vh;
   background-color: rgba(45, 58, 75, 0.5);
   padding: 0px 60px;
   position: relative;
@@ -436,7 +436,7 @@ ul {
 */
 
 .projects-content {
-  height: 120vh;
+  height: 100vh;
   background-color: rgba(45, 58, 75, 0.5);
   padding: 0px 60px;
   position: relative;
@@ -444,7 +444,7 @@ ul {
 }
 
 .projects-content .heading {
-  padding-top: 30%;
+  padding-top: 20%;
 }
 
 .project-item {
@@ -509,7 +509,7 @@ ul {
 }
 
 .contact-content .heading {
-  padding-top: 35%;
+  padding-top: 20%;
 }
 
 .contact-content .contat-form {
